@@ -1,0 +1,19 @@
+{
+  "name": "kof-jump-practice-menu-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regemon/kof-jump-practice-menu-generator.git"
+  },
+  "author": "regemon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/regemon/kof-jump-practice-menu-generator/issues"
+  },
+  "homepage": "https://github.com/regemon/kof-jump-practice-menu-generator#readme"
+}
