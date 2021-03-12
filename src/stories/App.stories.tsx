@@ -1,6 +1,6 @@
 import React from 'react';
 import { Story, Meta } from '@storybook/react/types-6-0';
-import { App, AppProps } from '../components/Application';
+import { App, AppProps } from '../components/App';
 
 export default {
   title: 'Example/App',
