@@ -8,7 +8,6 @@ const config: Configuration = {
   output: {
     path: path.join(__dirname, 'dist'),
     filename: 'bundle.js',
-    publicPath: '/assets',
   },
   module: {
     rules: [
@@ -22,7 +21,7 @@ const config: Configuration = {
     extensions: ['.ts', '.tsx', '.js', 'jsx'],
   },
   devServer: {
-    contentBase: path.join(__dirname, 'static'),
+    contentBase: path.join(__dirname, 'dist'),
     host: '0.0.0.0',
   },
 };
